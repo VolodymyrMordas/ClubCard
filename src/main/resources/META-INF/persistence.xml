@@ -6,9 +6,6 @@
 
         <class>com.clubcard.entities.Company</class>
         <class>com.clubcard.entities.User</class>
-        <class>com.clubcard.entities.GpsTrack</class>
-        <class>com.clubcard.entities.UserSensor</class>
-        <class>com.clubcard.entities.UserSensorGroup</class>
 
     </persistence-unit>
 </persistence>
