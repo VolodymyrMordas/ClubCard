@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.1">
+
+    <persistence-unit name="ClubCardPU" transaction-type="JTA">
+        <jta-data-source>jdbc/ClubCard</jta-data-source>
+
+        <class>com.clubcard.entities.Company</class>
+        <class>com.clubcard.entities.User</class>
+        <class>com.clubcard.entities.GpsTrack</class>
+        <class>com.clubcard.entities.UserSensor</class>
+        <class>com.clubcard.entities.UserSensorGroup</class>
+
+    </persistence-unit>
+</persistence>

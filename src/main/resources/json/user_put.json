@@ -1,0 +1,16 @@
+{
+  "data": {
+    "user": [
+      {
+        "birthday": "1986-02-01 00:00:00.000",
+        "email": "vmordas@i.ua",
+        "first_name": "Mark",
+        "last_name": "Smith",
+        "sex": 1,
+        "socnet_type": 1,
+        "socnet_uid": "767246150046394",
+        "status": 0
+      }
+    ]
+  }
+}

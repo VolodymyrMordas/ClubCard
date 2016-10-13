@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="ClubCard:EJB exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClubCard_EJB_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ClubCard/ejb/EJB" />
+      <element id="module-output" name="ClubCard" />
+    </root>
+  </artifact>
+</component>
